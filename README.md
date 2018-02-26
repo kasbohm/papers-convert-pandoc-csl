@@ -1,5 +1,5 @@
 # papers-convert-pandoc-csl
-You have used papers for mac as a reference manager and want to convert a word docuent to pandoc, or simply export the bibliography contained in the word docuemnt (i.e. endotes travelling library function).
+You have used papers for mac as a reference manager and want to convert a word document to pandoc, or simply export the bibliography contained in the word docuemnt (i.e. endotes travelling library function).
 
 - Import bibtex_pandoccitekey.csl to papers3 (drag file to library window)
 - Format word document using the bibtex_pandoccitekey style.
